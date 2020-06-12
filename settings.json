@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "user": "postgres",
+    "password": "le_mot_de_passe",
+    "dbname": "socofile"
+  },
+  "domain": "192.168.2.109",
+  "file_store": "~/.socofile"
+}
